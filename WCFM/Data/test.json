@@ -1,0 +1,65 @@
+{
+    "shows" : [
+        {
+            "title" : "For What It's Worth",
+            "hosts" : "Matt Newman and Johnny Inoue",
+            "day" : "Tuesday",
+            "startTime" : 20,
+            "endTime" : 21,
+            "description" : "You don't have to be a history major to love these oldies. Tune in for some of the greatest hits from the 60's, 70's, and 80's every Tuesday night here on WCFM.",
+            "genres" : "Alternative/Indie, Classic Rock, R&B/Soul, Talk Show",
+            "board" : "true"
+        },
+        {
+            "title" : "Songs I Can't Play at Home",
+            "hosts" : "Geoff Hedden",
+            "day" : "Monday",
+            "startTime" : 18,
+            "endTime" : 20,
+            "description" : "From Motorhead to Bach in 2 hours",
+            "genres" : "Everything",
+            "board" : "false"
+        },
+        {
+            "title" : "Got Auxygen?",
+            "hosts" : "Amanda Shapiro, Sarah Sutton",
+            "day" : "Tuesday",
+            "startTime" : 18,
+            "endTime" : 19,
+            "description" : "Music and live entertainment that will make you feel better about yourself from #aaaaallllthewayup here in the Purple Mountains.",
+            "genres" : "Pop, Alternative/Indie, R&B/Soul, Experimental, Talk Show",
+            "board" : "false"
+        },
+        {
+            "title" : "The Purple Tape",
+            "hosts" : "Mano Sundaresan",
+            "day" : "Thursday",
+            "startTime" : 22,
+            "endTime" : 23,
+            "description" : "Bringing you the latest bars, beats, and bangers with a splash of nostalgia.",
+            "genres" : "Hip Hop/Rap",
+            "board" : "true"
+        },
+        {
+            "title" : "Let the Music Speak",
+            "hosts" : "DL Smith",
+            "day" : "Wednesday",
+            "startTime" : 18,
+            "endTime" : 20,
+            "description" : "\"Let the Music Speak\" is an eclectic show that focuses on American music. Though jazz and blues are often the heart of the show, the programming ranges across many genres, including classical, spoken word, country, and folk, as well as traditions from other nations, such as flamenco. Regions and cities are also sometimes the focus of LTMS. New Orleans, Chicago, and Detroit are obvious examples. Each week has its own theme.",
+            "genres" : "Jazz, R&B/Soul, Blues, Country",
+            "board" : "false"
+        },
+        {
+            "title" : "The Dinosaur Revolution",
+            "hosts" : "Anjali Pai, Augusta Nau",
+            "day" : "Sunday",
+            "startTime" : 15,
+            "endTime" : 16,
+            "description" : "Welcome to the Dinosaur Revolution. Dinosaurs may be extinct, but good music never dies. Vive la révolution!",
+            "genres" : "Hip Hop/Rap, Pop, Alternative/Indie, Talk Show",
+            "board" : "false"
+        }
+    ]
+}
+
